@@ -2,7 +2,6 @@
 
 - 🏛️ 2nd year student of Kyiv Polytechnic Institute, FICT
 - 🌱 Learning Go, FrontEnd and Node.js
-- 🔭 Working on a [Party Manager program](https://github.com/samurai-of-honor/party-manager)
 - 🌍 Сontribute to the student organization [Metaboros](https://github.com/Metaboros)
 - 💬 Telegram: [@samurai_of_honor](https://telegram.me/samurai_of_honor)
 - 📫 Mail: [pashabaran1207@gmail.com](mailto:pashabaran1207@gmail.com)
