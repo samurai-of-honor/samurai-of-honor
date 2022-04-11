@@ -3,6 +3,7 @@
 - 🏛️ 2nd year student of Kyiv Polytechnic Institute, FICT
 - 🌱 Learning Go, Frontend and Node.js
 - 🌍 Сontribute to the student organization [Metaboros](https://github.com/Metaboros)
+- 🔬My laboratory [works](https://github.com/samurai-of-honor/my-labs)
 - 💬 Telegram: [@samurai_of_honor](https://telegram.me/samurai_of_honor)
 - 📫 Mail: [pashabaran1207@gmail.com](mailto:pashabaran1207@gmail.com)
 
